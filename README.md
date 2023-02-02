@@ -24,7 +24,6 @@
      <img align="center" alt="Dani-Netlifly" height="40" width="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
    <!--   <img align="center" alt="Dani-Heroku" height="40" width="50" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> -->
   
-  
   ##
   
   <div>
@@ -39,6 +38,7 @@
     
   ![Snake animation](https://github.com/bw-dani/bw-dani/blob/output/github-contribution-grid-snake.svg)
 
+   <img align="center" alt="Dani-Heroku" height="100" width="100" src="https://komarev.com/ghpvc/?username=bw-dani&color=blueviolet">
   
 </div>
 
