@@ -36,7 +36,7 @@
  
   </br>
     
-  ![Snake animation](https://github.com/bw-dani/bw-dani/blob/output/github-contribution-grid-snake.svg)
+<!--      ![Snake animation](https://github.com/bw-dani/bw-dani/blob/output/github-contribution-grid-snake.svg)  -->
 
 <!--    <img align="center" alt="Dani-Heroku" height="100" width="100" src="https://komarev.com/ghpvc/?username=bw-dani&color=blueviolet"> -->
   
